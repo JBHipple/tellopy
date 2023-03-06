@@ -1,0 +1,7 @@
+command
+takeoff
+forward 50
+cw 180
+forward 50
+cw 180
+land
